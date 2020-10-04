@@ -6,7 +6,7 @@ namespace ISMFirstConsoleProject
     {
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("Hello, World");
         }
     }
 }
